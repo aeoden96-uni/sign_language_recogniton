@@ -4,11 +4,11 @@
 
 Moguci datasetovi:
 
-https://www.kaggle.com/grassknoted/asl-alphabet
-https://www.kaggle.com/datamunge/sign-language-mnist
+* https://www.kaggle.com/grassknoted/asl-alphabet
+* https://www.kaggle.com/datamunge/sign-language-mnist
 
 Slican rad:
-https://www.kaggle.com/paultimothymooney/interpret-sign-language-with-deep-learning
+* https://www.kaggle.com/paultimothymooney/interpret-sign-language-with-deep-learning
 
 U ovom projektu radimo na implementaciji prepoznavača znakovnog jezika.
 
