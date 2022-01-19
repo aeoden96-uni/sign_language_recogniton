@@ -13,3 +13,4 @@ Također, učenje modela će se provoditi na Google Colab-u,online okruženju za
 Testiranje modela će se vršiti pomoću web-kamere ili manualno preko slike/videa.
 Nismo ih još istražili,ali Pyhon ima broj raznih biblioteka za učitavanje i procesiranje videa i videa web-camere ,što je jedan od glavnih razloga zašto ga koristimo.
 
+HOSVD?
