@@ -2,6 +2,14 @@
 
 [Google Colab link (temp)](https://colab.research.google.com/drive/178oZMrz2gbAXkyUWN5vGbC4kEDcIr9LM?usp=sharing)
 
+Moguci datasetovi:
+
+https://www.kaggle.com/grassknoted/asl-alphabet
+https://www.kaggle.com/datamunge/sign-language-mnist
+
+Slican rad:
+https://www.kaggle.com/paultimothymooney/interpret-sign-language-with-deep-learning
+
 U ovom projektu radimo na implementaciji prepoznavača znakovnog jezika.
 
 Konkretno program će prepoznavati pojedina slova znakovne abecede.Pošto postoji više varijanti abecede za različite regije, program bi trebao raditi za sve varijante.
