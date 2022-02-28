@@ -1,26 +1,22 @@
 # Sign language recogniton
 
-[Google Colab link (temp)](https://colab.research.google.com/drive/178oZMrz2gbAXkyUWN5vGbC4kEDcIr9LM?usp=sharing)
-
-Moguci datasetovi:
-
-* https://www.kaggle.com/grassknoted/asl-alphabet
-* https://www.kaggle.com/datamunge/sign-language-mnist
-
-Slican rad:
-* https://www.kaggle.com/paultimothymooney/interpret-sign-language-with-deep-learning
-
-U ovom projektu radimo na implementaciji prepoznavača znakovnog jezika.
-
-Konkretno program će prepoznavati pojedina slova znakovne abecede.Pošto postoji više varijanti abecede za različite regije, program bi trebao raditi za sve varijante.
-
-![alt text](hands.png "Title"),
-
-Analizirat ćemo više modela i vidjeti koji su najučinkovitiji i koji daju pouzdane rezultate. Za samo implementaciju, koristit ćemo Pythonovu biblioteku za strojno učenje TensorFlow,a za same podatke za učenje modela još nismo našli adekvatan dataset, ali ukoliko naš dataset za učenje i bude premali, možemo ga povećati tako da postojeće slike transformiramo,rotitamo,promijenimo im svjetlinu i slično.
+Colaborators: ```Tim 4M```
+*  Mateja Pejić
+*  Mate Poljak
+*  Mihaela Zima
+*  Mateo Martinjak
 
 
+### Used techologies,libraries and other resources
+* Software used:  ```It's very important to use these versions together,new versions may or may not work together.```
+    * [Python 3.9](https://www.python.org/downloads/release/python-399/)
+    * [Tensorflow 2.8](https://www.tensorflow.org/)
+    * [CUDA 11.2](https://developer.nvidia.com/cuda-11.2.2-download-archive): API that allows software to use certain types of GPU for general purpose processing
+    * [cuDNN 11.2](https://developer.nvidia.com/cudnn): NVIDIA CUDA Deep Neural Network library (cuDNN) is a GPU-accelerated library of primitives for deep neural networks. 
 
-Također, učenje modela će se provoditi na Google Colab-u,online okruženju za izvršavanje Python skripti,tako da svi članovi tima mogu izvršiti projekt,neovisno o njihovoj snazi računala. 
+* Other resources:
+     * [Tensorflow models](https://github.com/tensorflow/models): repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow
+    * [OpenCV](https://docs.opencv.org/4.5.5/dd/de7/group__videoio.html): Library used for video input/output
+    * [labelImg](https://github.com/tzutalin/labelImg): graphical image annotation tool
+    * [SSD and Real-Time Object Detection Article](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab?gi=5510ed7f9ea)
 
-Testiranje modela će se vršiti pomoću web-kamere ili manualno preko slike/videa.
-Nismo ih još istražili,ali Pyhon ima broj raznih biblioteka za učitavanje i procesiranje videa i videa web-camere ,što je jedan od glavnih razloga zašto ga koristimo.
