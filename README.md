@@ -17,7 +17,8 @@ Colaborators: ```Tim 4M```
      * [Tensorflow models](https://github.com/tensorflow/models): repository with a number of different implementations of state-of-the-art (SOTA) models and modeling solutions for TensorFlow
     * [OpenCV](https://docs.opencv.org/4.5.5/dd/de7/group__videoio.html): Library used for video input/output
     * [labelImg](https://github.com/tzutalin/labelImg): graphical image annotation tool
-    * [SSD and Real-Time Object Detection Article](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab?gi=5510ed7f9ea)
+    * [SSD and Real-Time Object Detection](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab?gi=5510ed7f9ea) article
+    * [A novel face recognition method based on sub-patternand tensor](http://sujingwang.name/publication/neucom11a.pdf) article
 
 ### Files
 *  Code is located [here](https://github.com/aeoden96/sign_language_recogniton/blob/main/code/Sign%20recognition.ipynb).
