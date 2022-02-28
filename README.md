@@ -6,7 +6,6 @@ Colaborators: ```Tim 4M```
 *  Mihaela Zima
 *  Mateo Martinjak
 
-
 ### Used techologies,libraries and other resources
 * Software used:  ```It's very important to use these versions together,new versions may or may not work together.```
     * [Python 3.9](https://www.python.org/downloads/release/python-399/)
@@ -19,4 +18,9 @@ Colaborators: ```Tim 4M```
     * [OpenCV](https://docs.opencv.org/4.5.5/dd/de7/group__videoio.html): Library used for video input/output
     * [labelImg](https://github.com/tzutalin/labelImg): graphical image annotation tool
     * [SSD and Real-Time Object Detection Article](https://towardsdatascience.com/understanding-ssd-multibox-real-time-object-detection-in-deep-learning-495ef744fab?gi=5510ed7f9ea)
+
+### Files
+*  Code is located [here](https://github.com/aeoden96/sign_language_recogniton/blob/main/code/Sign%20recognition.ipynb).
+*  [main.py](https://github.com/aeoden96/sign_language_recogniton/blob/main/code/main.py) can be used instead jupyter library above for a demo of the project.(it uses already learned model)
+*  [Formal documentation](https://github.com/aeoden96/sign_language_recogniton/blob/main/documentation/doc.pdf)
 
