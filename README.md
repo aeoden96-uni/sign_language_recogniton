@@ -24,4 +24,4 @@ Colaborators: ```Tim 4M```
 *  Code is located [here](https://github.com/aeoden96/sign_language_recogniton/blob/main/code/Sign%20recognition.ipynb).
 *  [main.py](https://github.com/aeoden96/sign_language_recogniton/blob/main/code/main.py) can be used instead jupyter library above for a demo of the project.(it uses already learned model)
 *  [Formal documentation](https://github.com/aeoden96/sign_language_recogniton/blob/main/documentation/doc.pdf)
-
+*  [Examples and dataset](https://github.com/aeoden96/sign_language_recogniton/tree/main/examples)
